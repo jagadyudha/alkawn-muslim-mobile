@@ -1,6 +1,7 @@
 import React from 'react';
 import {StyleSheet, Text, StatusBar, View} from 'react-native';
 import Header from '../components/header';
+import Menu from '../components/menu';
 const Home = () => {
   return (
     <View
@@ -15,6 +16,7 @@ const Home = () => {
         backgroundColor="#f6f6f6"
       />
       <Header />
+      <Menu />
     </View>
   );
 };
