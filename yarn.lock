@@ -1173,12 +1173,17 @@
   resolved "https://registry.yarnpkg.com/@react-navigation/elements/-/elements-1.1.2.tgz#82d8978489e47e7c54f67c453ba4a124046fe253"
   integrity sha512-PbPCleC1HpUlXtuP0DFNCNTEhRLd6lmB0KxY0SGRGqCemS3HpG/PajEQ1LDe7S51M03a1tDby1MfKTkNanUXAg==
 
-"@react-navigation/material-bottom-tabs@^6.0.7":
-  version "6.0.7"
-  resolved "https://registry.yarnpkg.com/@react-navigation/material-bottom-tabs/-/material-bottom-tabs-6.0.7.tgz#30f9d60e344eb4e3b1f68732715dc360755edbbd"
-  integrity sha512-EjaetcI+kgxtImLm+zA5SiNoLk2SKCqxEinCjYpBhlKRU5i/Mt+VXJbuvMFSJNuPnjZfD275N9Ql+YqyKnZMxg==
+"@react-navigation/elements@^1.3.11":
+  version "1.3.11"
+  resolved "https://registry.yarnpkg.com/@react-navigation/elements/-/elements-1.3.11.tgz#135c2cb3ae4a31bc835bb731110fd1ef9c38e237"
+  integrity sha512-o4J0g4ofJbbn68e4TpuGkuZLtq5mLll7Ndz9C4O4RvD2chchLuGQ5TycIPTKP428cz8JzuTCFqUe/ZhOPSsudw==
+
+"@react-navigation/material-bottom-tabs@^6.2.9":
+  version "6.2.9"
+  resolved "https://registry.yarnpkg.com/@react-navigation/material-bottom-tabs/-/material-bottom-tabs-6.2.9.tgz#e08726107cd172e110b7eddcabe03747b6613625"
+  integrity sha512-g87MeXpgjJkKtSUcXKev9/C6AswpmD9AWH/hEoFk01T1w7pkXsxbaUbBkGupN/ncQ9cFkH6HgXTHiotS+aIYLA==
   dependencies:
-    "@react-navigation/elements" "^1.1.2"
+    "@react-navigation/elements" "^1.3.11"
 
 "@react-navigation/native@^6.0.4":
   version "6.0.4"
